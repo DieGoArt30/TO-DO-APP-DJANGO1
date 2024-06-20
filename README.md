@@ -18,3 +18,11 @@ Abre una terminal integrada en VSCode (Ctrl + `).
 Clona el repositorio desde GitHub:
 
 ![inicio de sesion](https://github.com/DieGoArt30/TO-DO-APP-DJANGO1/assets/149025522/dd5c7c3f-2681-41d0-9a10-42ff6faf6801)
+
+![lista de tarea](https://github.com/DieGoArt30/TO-DO-APP-DJANGO1/assets/149025522/12f6aa32-e4e6-477b-8d5f-2e33519c4049)
+
+
+## Estructura del Proyecto
+
+![directorio](https://github.com/DieGoArt30/TO-DO-APP-DJANGO1/assets/149025522/70355154-43ec-4e74-899e-4c27500bfb51)
+
